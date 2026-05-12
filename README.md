@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Piero 👋
 
-<!--
-**pdelgado-dev/pdelgado-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Systems Engineering Student  
+🚀 Backend & Web Developer  
+⚡ Passionate about building real-world software projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- ASP.NET MVC
+- C#
+- SQL Server
+- Java
+- Android Studio
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+- Clean Architecture
+- REST APIs
+- Entity Framework
+- Software Architecture
+
+---
+
+## 🚀 Featured Projects
+
+- Digital Order Management System
+- Android Applications
+- Web Systems with ASP.NET MVC
+- SQL Server Database Projects
+
+---
+
+## 📫 Contact
+
+- GitHub: github.com/pdelgado-dev
